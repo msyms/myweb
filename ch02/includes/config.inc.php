@@ -36,7 +36,7 @@ if ($local) {
     
     // Define the constants:
     define('BASE_URI', '/path/to/html/folder/');
-    define('BASE_URL', 'http://localhost/directory/');
+    define('BASE_URL', 'http://localhost/myweb/ch02/');
     define('DB', '/path/to/mysql.inc.php');
     
 } else {
